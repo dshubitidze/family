@@ -1,77 +1,42 @@
 
 treeData = [{
-  "name": "Niclas Superlongsurname",
+  "name": "ამბროსი უნცროსი",
   "class": "man",
+  "extra": {
+      	"nickname": "შუბა"
+      },
   "textClass": "emphasis",
   "marriages": [{
     "spouse": {
-      "name": "Iliana",
+      "name": "დიჟნა II",
       "class": "woman",
       "extra": {
-      	"nickname": "Illi"
+      	"nickname": "დიდებული"
       }
     },
     "children": [{
-      "name": "James",
+      "name": "nodari",
       "class": "man",
       "marriages": [{
         "spouse": {
-          "name": "Alexandra",
+          "name": "nino",
           "class": "woman"
         },
         "children": [{
-          "name": "Eric",
-          "class": "man",
+          "name": "ნარი",
+          "class": "woman",
           "marriages": [{
             "spouse": {
-              "name": "Eva",
-              "class": "woman"
+              "name": "akaki",
+              "class": "man"
             }
           }]
         }, {
-          "name": "Jane",
-          "class": "woman"
-        }, {
-          "name": "Jasper",
-          "class": "man",
-          
-          
-          
-          
-        "marriages": [{
-        "spouse": {
-          "name": "Jaspers Fife",
-          "class": "woman"
-        },
-        "children": [{
-          "name": "Eric",
+          "name": "გიორგი",
           "class": "man"
         }, {
-          "name": "Jane",
-          "class": "woman"
-        }, {
-          "name": "Jasper",
+          "name": "დავითი",
           "class": "man"
-        }, {
-          "name": "Emma",
-          "class": "woman"
-        }]
-      }]
-      
-      
-      
-          
-          
-          
-        }, {
-          "name": "Emma",
-          "class": "woman"
-        }, {
-          "name": "Julia",
-          "class": "woman"
-        }, {
-          "name": "Jessica",
-          "class": "woman"
         }]
       }]
     }]
